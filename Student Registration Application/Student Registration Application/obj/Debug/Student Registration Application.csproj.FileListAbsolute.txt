@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Student Registration Application\Student Registration Application\bin\Debug\Student Registration Application.exe.config
+C:\Users\User\source\repos\Student Registration Application\Student Registration Application\bin\Debug\Student Registration Application.exe
+C:\Users\User\source\repos\Student Registration Application\Student Registration Application\bin\Debug\Student Registration Application.pdb
+C:\Users\User\source\repos\Student Registration Application\Student Registration Application\obj\Debug\Student Registration Application.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Student Registration Application\Student Registration Application\obj\Debug\Student Registration Application.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Student Registration Application\Student Registration Application\obj\Debug\Student Registration Application.exe
+C:\Users\User\source\repos\Student Registration Application\Student Registration Application\obj\Debug\Student Registration Application.pdb
